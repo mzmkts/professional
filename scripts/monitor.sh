@@ -6,3 +6,4 @@ echo "Memory Usage:"
 free -h
 echo "Disk Usage:"
 df -h
+echo \"Timestamp: \$(date)\"
